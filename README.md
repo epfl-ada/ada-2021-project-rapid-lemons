@@ -1,5 +1,5 @@
 # Project proposal
-Statistical analysis on gender bias and occupation of the speakers, thematic analysis based on title of articles
+Study on gender bias and occupation of the speakers, thematic analysis based on title of articles
 
 ## Abstract
 
