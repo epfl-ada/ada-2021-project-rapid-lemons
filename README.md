@@ -38,9 +38,10 @@ Finally we can do a thematic analysis of the quotes, focusing again on gender an
 ## Organization within the team
 
 Matthieu: Perform the first statistical analysis on gender and occupation 
+
 Danaé: decide on the websites to use for topic extraction and extract themes for the quotations.
+
 Yingxuan: Group similar themes together across the sites and analyse the themes with respect to gender and occupation
 
 All of the team: Help write the data story with the conclusions we found.
 
-## (Questions for TAs)
