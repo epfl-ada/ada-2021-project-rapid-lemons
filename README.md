@@ -41,7 +41,7 @@ Meanwhile, we can analyse the themes of the quote’s associated article(s) by a
 
 Matthieu: Initial filtering and integrity checks on the dataset; Assigned each speaker's occupation to one of the four categories; Plotted graphs related to quote lengths, numbers, and occupations.
 
-Danaé: decide on the websites to use for topic extraction and extract themes for the quotations.
+Danaé: Took care of the topic extraction functions based on urls, how to decompose urls to extract words, exploring alternatives for topic extraction for quotes and urls, and finding the topics for the 2020 dataset
 
 Yingxuan: Group similar themes together across the sites and analyse the themes with respect to gender and occupation
 
