@@ -13,6 +13,8 @@ We would like to know if there is a gender bias in the number of quotes and the 
 
 For the external source, we use the provided additional metadata about speakers, since their gender and occupations are the subject of our study. The dataset contains 9055981 entries and it gives us different information such as date of birth, ethnicity and religion of the speaker. The aliases show different names associated with the same person. We only keep the columns containing the gender, occupations and Qid using which we merge this dataset with the original ones. We dropped speakers without an occupation, there are ​​4893542 entries remaining.
 
+Additionnally, we used a [pre-trained GloVe word vectors dataset](https://nlp.stanford.edu/projects/glove/) (specifically the glove.6b.zip) for classification of the occupations of each speakers. This dataset is available under the public Domain, and was made by the standford university using GloVe on Wipipedia 2014 and Gigaword 5. We used the dataset as-is, by comparing the distances of words in different categories for classification.
+
 ## Methods
 
 In this section we list the methods that we plan to employ in the future to reach our goals. The methods we used to perform the initial analysis and data cleaning are displayed and explained in the notebook.
