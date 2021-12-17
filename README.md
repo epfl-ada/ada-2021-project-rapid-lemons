@@ -1,6 +1,10 @@
 # Project proposal
 Study on gender bias centered around the theme of the articles and occupation of the speakers
 
+## Datastory
+
+Please check our datastory on this [website](https://dyxcooh.github.io/adadatastory/)
+
 ## Abstract
 
 Our project aims to perform a thematic analysis of the quotes featured in newspapers with a focus on the speaker’s gender and occupation. First, the idea is to study the male to female ratio within speakers quoted for a certain news topic. We are curious to see in which fields there are more men or women who expressed themselves, which gender is more quoted and, in some sort, has a larger voice in the media. Then, we can investigate how related the speaker is to the topic they were quoted in.
@@ -43,7 +47,7 @@ Matthieu: Initial filtering and integrity checks on the dataset; Assigned each s
 
 Danaé: Took care of the topic extraction functions based on urls, how to decompose urls to extract words, exploring alternatives for topic extraction for quotes and urls, and finding the topics for the 2020 dataset
 
-Yingxuan: Group similar themes together across the sites and analyse the themes with respect to gender and occupation
+Yingxuan: Make use of the external dataset to add gender and occupation of each quote, plot graph of topics by occupations, find ideas for deeper analysis, create and update the site
 
 All of the team: Help write the data story with the conclusions we found.
 
