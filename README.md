@@ -39,7 +39,7 @@ Meanwhile, we can analyse the themes of the quote’s associated article(s) by a
 
 ## Organization within the team
 
-Matthieu: Assigned speaker's occupation to one of the four categories; Plotted graphs related to quote lengths, numbers, and occupations.
+Matthieu: Initial filtering and integrity checks on the dataset; Assigned each speaker's occupation to one of the four categories; Plotted graphs related to quote lengths, numbers, and occupations.
 
 Danaé: decide on the websites to use for topic extraction and extract themes for the quotations.
 
